@@ -1,5 +1,5 @@
 {
-    "name": "voku/portable-utf8",
+    "name": "erfanhemmati/portable-utf8",
     "description": "Portable UTF-8 library - performance optimized (unicode) string functions for php.",
     "type": "library",
     "keywords": [
